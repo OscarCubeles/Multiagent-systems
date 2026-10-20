@@ -1,0 +1,148 @@
+{
+  "fires": [
+    {
+      "id": 1,
+      "location": {
+        "x": 2.4639846209913387,
+        "y": 42.17738048019025
+      },
+      "type": "gas",
+      "severity": "medium",
+      "injured": {
+        "minor": 2,
+        "serious": 5
+      },
+      "completed": false
+    },
+    {
+      "id": 3,
+      "location": {
+        "x": 2.483619921963118,
+        "y": 42.19462849095851
+      },
+      "type": "electrical",
+      "severity": "high",
+      "injured": {
+        "minor": 1,
+        "serious": 2
+      },
+      "completed": false
+    },
+    {
+      "id": 2,
+      "location": {
+        "x": 2.4935978583909413,
+        "y": 42.1738600307819
+      },
+      "type": "ordinary",
+      "severity": "low",
+      "injured": {
+        "minor": 1,
+        "serious": 4
+      },
+      "completed": false
+    }
+  ],
+  "ambulances": [
+    {
+      "id": 1,
+      "capacity": 5,
+      "location": {
+        "x": 2.4675162,
+        "y": 42.1874622
+      },
+      "available": true,
+      "type": "on-site"
+    },
+    {
+      "id": 2,
+      "capacity": 5,
+      "location": {
+        "x": 2.4675162,
+        "y": 42.1874622
+      },
+      "available": true,
+      "type": "on-site"
+    },
+    {
+      "id": 3,
+      "capacity": 6,
+      "location": {
+        "x": 2.4675162,
+        "y": 42.1874622
+      },
+      "available": true,
+      "type": "transfer"
+    },
+    {
+      "id": 4,
+      "capacity": 5,
+      "location": {
+        "x": 2.4675162,
+        "y": 42.1874622
+      },
+      "available": true,
+      "type": "on-site"
+    },
+    {
+      "id": 5,
+      "capacity": 7,
+      "location": {
+        "x": 2.4893466,
+        "y": 42.1800696
+      },
+      "available": true,
+      "type": "transfer"
+    },
+    {
+      "id": 6,
+      "capacity": 6,
+      "location": {
+        "x": 2.4893466,
+        "y": 42.1800696
+      },
+      "available": true,
+      "type": "on-site"
+    },
+    {
+      "id": 7,
+      "capacity": 4,
+      "location": {
+        "x": 2.4893466,
+        "y": 42.1800696
+      },
+      "available": true,
+      "type": "transfer"
+    },
+    {
+      "id": 8,
+      "capacity": 3,
+      "location": {
+        "x": 2.4675162,
+        "y": 42.1874622
+      },
+      "type": "transfer",
+      "available": true
+    }
+  ],
+  "hospitals": [
+    {
+      "id": 1,
+      "name": "Hospital d'Olot i comarcal de la Garrotxa",
+      "capacity": 26,
+      "location": {
+        "x": 2.4675162,
+        "y": 42.1874622
+      }
+    },
+    {
+      "id": 2,
+      "name": "Cl\u00ednica Bofill",
+      "capacity": 62,
+      "location": {
+        "x": 2.4893466,
+        "y": 42.1800696
+      }
+    }
+  ]
+}

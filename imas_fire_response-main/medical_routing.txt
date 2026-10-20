@@ -1,0 +1,73 @@
+Routes for Fire 1 with location: (2.4639846209913387, 42.17738048019025)
+  Ambulance 1 - Route to fire 1: 
+    Streets: Avinguda dels Països Catalans -> Carretera de Sant Joan de les Abadesses -> Avinguda dels Reis Catòlics -> Carrer de l'Escultor Josep Clarà -> Passeig de Barcelona -> Carretera Santa Coloma -> Camí de la Teuleria -> Plaça de Vista Alegre -> Carrer de Vista Alegre -> Carrer de Ribes de Freser -> Carrer de Cadis -> Camí dels Tossols
+    Total Time: 443.94 seconds
+    Total Distance: 4673.68 meters
+
+  Ambulance 4 - Route to fire 1: 
+    Streets: Avinguda dels Països Catalans -> Carretera de Sant Joan de les Abadesses -> Avinguda dels Reis Catòlics -> Carrer de l'Escultor Josep Clarà -> Passeig de Barcelona -> Carretera Santa Coloma -> Camí de la Teuleria -> Plaça de Vista Alegre -> Carrer de Vista Alegre -> Carrer de Ribes de Freser -> Carrer de Cadis -> Camí dels Tossols
+    Total Time: 443.94 seconds
+    Total Distance: 4673.68 meters
+
+  Ambulance 5 - Route to fire 1: 
+    Streets: Carrer de Marià Vayreda -> Carrer de Camil Mulleras -> Carrer del Pare Roca -> Passeig de Barcelona -> Carretera Santa Coloma -> Camí de la Teuleria -> Plaça de Vista Alegre -> Carrer de Vista Alegre -> Carrer de Ribes de Freser -> Carrer de Cadis -> Camí dels Tossols
+    Total Time: 294.1 seconds
+    Total Distance: 3031.94 meters
+
+  Ambulance 6 - Route to fire 1: 
+    Streets: Carrer de Marià Vayreda -> Carrer de Camil Mulleras -> Carrer del Pare Roca -> Passeig de Barcelona -> Carretera Santa Coloma -> Camí de la Teuleria -> Plaça de Vista Alegre -> Carrer de Vista Alegre -> Carrer de Ribes de Freser -> Carrer de Cadis -> Camí dels Tossols
+    Total Time: 294.1 seconds
+    Total Distance: 3031.94 meters
+
+  Ambulance 7 - Route to fire 1: 
+    Streets: Carrer de Marià Vayreda -> Carrer de Camil Mulleras -> Carrer del Pare Roca -> Passeig de Barcelona -> Carretera Santa Coloma -> Camí de la Teuleria -> Plaça de Vista Alegre -> Carrer de Vista Alegre -> Carrer de Ribes de Freser -> Carrer de Cadis -> Camí dels Tossols
+    Total Time: 294.1 seconds
+    Total Distance: 3031.94 meters
+
+  Ambulance 8 - Route to fire 1: 
+    Streets: Avinguda dels Països Catalans -> Carretera de Sant Joan de les Abadesses -> Avinguda dels Reis Catòlics -> Carrer de l'Escultor Josep Clarà -> Passeig de Barcelona -> Carretera Santa Coloma -> Camí de la Teuleria -> Plaça de Vista Alegre -> Carrer de Vista Alegre -> Carrer de Ribes de Freser -> Carrer de Cadis -> Camí dels Tossols
+    Total Time: 443.94 seconds
+    Total Distance: 4673.68 meters
+
+  Route from fire 1 to  Hospital Hospital d'Olot i comarcal de la Garrotxa (ID: 1)
+    Streets: Camí dels Tossols -> Carrer de Cadis -> Carrer de Ribes de Freser -> Carrer de la Coma -> Plaça de Vista Alegre -> Camí de la Teuleria -> Carretera Santa Coloma -> Passeig de Barcelona -> Carrer del Pare Roca -> Carretera de Sant Joan de les Abadesses -> Avinguda dels Països Catalans
+    Route Time: 456.63 seconds
+    Route Distance: 4801.75 meters
+
+  Route from fire 1 to  Hospital Clínica Bofill (ID: 2)
+    Streets: Camí dels Tossols -> Carrer de Cadis -> Carrer de Ribes de Freser -> Carrer de la Coma -> Plaça de Vista Alegre -> Camí de la Teuleria -> Carretera Santa Coloma -> Passeig de Barcelona -> Avinguda de València -> Plaça d'Espanya -> Avinguda de Castella i Lleó -> Avinguda d'Extremadura -> Ronda del Sometent -> Carrer de Joan Maragall -> Carretera de Santa Pau -> Carrer de Marià Vayreda
+    Route Time: 366.05 seconds
+    Route Distance: 3603.1 meters
+
+Routes for Fire 2 with location: (2.4935978583909413, 42.1738600307819)
+  Ambulance 3 - Route to fire 2: 
+    Streets: Avinguda dels Països Catalans -> Carretera de Sant Joan de les Abadesses -> Avinguda dels Reis Catòlics -> Carrer de l'Escultor Josep Clarà -> Carrer del Bisbe Vilanova -> Ronda del Fluvià -> Avinguda d'Extremadura -> Ronda del Sometent -> Avinguda de Sant Jordi -> Carretera de Santa Pau -> Carretera Vella de Batet -> Carrer Rosa dels Vents
+    Total Time: 332.52 seconds
+    Total Distance: 3705.26 meters
+
+  Route from fire 2 to  Hospital Hospital d'Olot i comarcal de la Garrotxa (ID: 1)
+    Streets: Carrer Rosa dels Vents -> Carretera Vella de Batet -> Carretera de Santa Pau -> Carrer del Volcà Pedraguda -> Carrer de la Creu Roja -> Carrer del Pintor Llimona -> Avinguda dels Pirineus -> ronda de les Fonts -> Carrer de Marià Vayreda -> Carrer de Camil Mulleras -> Carrer del Pare Roca -> Carretera de Sant Joan de les Abadesses -> Avinguda dels Països Catalans
+    Route Time: 337.38 seconds
+    Route Distance: 3838.34 meters
+
+  Route from fire 2 to  Hospital Clínica Bofill (ID: 2)
+    Streets: Carrer Rosa dels Vents -> Carretera Vella de Batet -> Carretera de Santa Pau -> Carrer del Volcà Pedraguda -> Carrer de la Creu Roja -> Carrer del Pintor Llimona -> Avinguda dels Pirineus -> ronda de les Fonts -> Carrer de Marià Vayreda
+    Route Time: 122.18 seconds
+    Route Distance: 1396.26 meters
+
+Routes for Fire 3 with location: (2.483619921963118, 42.19462849095851)
+  Ambulance 2 - Route to fire 3: 
+    Streets: Avinguda dels Països Catalans -> Avinguda d'Europa -> Plaça de la Unió Europea -> Eix Pirinenc
+    Total Time: 160.97 seconds
+    Total Distance: 1554.28 meters
+
+  Route from fire 3 to  Hospital Hospital d'Olot i comarcal de la Garrotxa (ID: 1)
+    Streets: Eix Pirinenc -> Plaça de la Unió Europea -> Avinguda d'Europa -> Avinguda dels Països Catalans
+    Route Time: 156.07 seconds
+    Route Distance: 1497.94 meters
+
+  Route from fire 3 to  Hospital Clínica Bofill (ID: 2)
+    Streets: Eix Pirinenc -> Carretera de la Canya -> Avinguda de Girona -> Plaça del Palau -> Avinguda del 11 de Setembre -> Carrer del Bisbe Lorenzana -> Carrer de Marià Vayreda
+    Route Time: 233.87 seconds
+    Route Distance: 3578.13 meters
+

@@ -1,0 +1,9 @@
+
+reporting_task:
+  description: >
+    A report that has been spellchecked and improved to ensure an easy comprehension. The text is provided by the Data Reader Tool.    
+  expected_output: >
+    A report that has been spellchecked, with any necessary corrections or revisions made. The report analyist should: 
+    - Introduce any necessary modifications to obtain a sepllchecked report.
+    - Provide a final report without any additional comments.  
+  agent: reporting_analyst

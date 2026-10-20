@@ -1,0 +1,27 @@
+fire_resources_task:
+  description: >
+    This task involves analyzing the fire incident reports and allocating fire trucks based on the fire type and severity.
+    Ensure that the number of fire trucks allocated to each fire is at least one and that the type of fire truck matches the fire type. 
+    Take into account also the fire severity. If it is very high, allocate more fire trucks to that fire, if available. 
+  expected_output: >
+    A detailed allocation plan for each fire incident based on the fire type, severity, and available fire trucks.
+  agent: firefighter_coordinator
+
+fire_truck_routing_task:
+  description: >
+    This task involves determining the shortest and quickest routes for fire trucks from the fire station to the fire locations. 
+    Analyze the fire report to identify the assigned fire trucks and calculate the optimal paths to ensure timely arrival at 
+    the fire sites, reducing response times during emergencies.
+  expected_output: >
+    A detailed routing plan for each fire truck, specifying the shortest path from the fire station to the assigned fire location.
+  agent: firetruck_dispatcher
+
+fire_extinguishing_strategy_task:
+  description: >
+    This task involves creating a step-by-step action plan to extinguish fires effectively based on their type and severity. 
+    Analyze the fire report to determine the appropriate firefighting techniques and actions, considering potential complications 
+    such as electrical or chemical fires. Ensure firefighter safety and efficiency in mitigating the fire.
+  expected_output: >
+    A comprehensive action plan for each fire, detailing the steps to be taken by firefighters, including alternative measures 
+    for complex scenarios like electrical or chemical fires.
+  agent: firefighter_agent

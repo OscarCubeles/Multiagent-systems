@@ -1,0 +1,20 @@
+[project]
+name = "imas_fire_response"
+version = "0.1.0"
+description = "IMAS_fire_response using crewAI"
+authors = [{ name = "Your Name", email = "you@example.com" }]
+requires-python = ">=3.10,<=3.13"
+dependencies = [
+    "crewai[tools]>=0.79.4,<1.0.0",
+    "matplotlib>=3.10.0",
+    "osmnx>=2.0.0",
+    "scikit-learn>=1.6.0",
+]
+
+[project.scripts]
+kickoff = "imas_fire_response.main:kickoff"
+plot = "imas_fire_response.main:plot"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

@@ -1,0 +1,23 @@
+Routes for Fire 3 with location: (2.483619921963118, 42.19462849095851)
+  Firetruck 2 - Route to fire 3: 
+    Streets: Carrer dels Semalers -> Carrer de la Faixa -> Carrer de la Ferradura -> Carretera de Riudaura -> Avinguda de Joan de Deu i Ros -> Carrer Segador -> Ronda del Xiprer -> Carrer dels Amolls -> Carrer del Ventall -> Carrer de la Tartana -> Carrer de la Masia -> Carrer del Pic del Bac -> Carrer de la Maça -> Carrer de l'Arquet -> Carrer del Xaboc -> Carrer Pere Màrtir Rossell VI -> Carrer de la Brida -> Camí de l'Hostal de la Corda -> Carretera de Sant Joan de les Abadesses -> Avinguda d'Europa -> Plaça de la Unió Europea -> Eix Pirinenc
+    Total Time: 425.53 seconds
+    Total Distance: 3816.91 meters
+
+  Firetruck 3 - Route to fire 3: 
+    Streets: Avinguda dels Països Catalans -> Avinguda d'Europa -> Plaça de la Unió Europea -> Eix Pirinenc
+    Total Time: 160.97 seconds
+    Total Distance: 1554.28 meters
+
+Routes for Fire 1 with location: (2.4639846209913387, 42.17738048019025)
+  Firetruck 1 - Route to fire 1: 
+    Streets: Carretera de Santa Pau -> Avinguda de Sant Jordi -> Avinguda de Paraguay -> Avinguda de l'Uruguay -> Plaça de l'Illa de Pasqua -> Carretera Santa Coloma -> Camí de la Teuleria -> Plaça de Vista Alegre -> Carrer de Vista Alegre -> Carrer de Ribes de Freser -> Carrer de Cadis -> Camí dels Tossols
+    Total Time: 484.05 seconds
+    Total Distance: 5571.11 meters
+
+Routes for Fire 2 with location: (2.4935978583909413, 42.1738600307819)
+  Firetruck 4 - Route to fire 2: 
+    Streets: Avinguda dels Països Catalans -> Carretera de Sant Joan de les Abadesses -> Avinguda dels Reis Catòlics -> Carrer de l'Escultor Josep Clarà -> Carrer del Bisbe Vilanova -> Ronda del Fluvià -> Avinguda d'Extremadura -> Ronda del Sometent -> Avinguda de Sant Jordi -> Carretera de Santa Pau -> Carretera Vella de Batet -> Carrer Rosa dels Vents
+    Total Time: 332.52 seconds
+    Total Distance: 3705.26 meters
+

@@ -1,0 +1,13 @@
+prioritize_fires_task:
+  description: >
+    Use the Fire Priorization tool and analize the output of the made by the tool. 
+    Your task is to use the Fire Priorization tool with the appropiate weights that you consider so that fire incidents are properly prioritized. 
+    The task consists of using the tool and generate a confirmation sentence explaining what has been put more importance when prioritizing the fires. 
+    Mainly 4 different aspects can be considered when prioritizing a fire, which are Distance, Severity, Fire type and injured people 
+  expected_output: >
+    A single confirmation sentence indicating that the Fire Priorization
+    tool has been succesfully used explaining which are the optimal weights for the Distance, Severity, Fire type and injured people that have been used to prioritize fire incidents and why .
+  agent: emergency_call_coordinator
+  
+
+

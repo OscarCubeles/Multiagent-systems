@@ -1,0 +1,13 @@
+support_task:
+  description: >
+    Assess the current situation using the add support tool and determine the adequacy of resources such as firetrucks 
+    and ambulances. Assess if additional resources are needed based on the number of injured individuals, number of fires, 
+    and firetruck types, and the ratios returned by the Add Support Tool. The ratios will guide you if more resources are needed. 
+    You will be able to add resources with the inputs of the tool.
+    If you just want to evaluate the current situation,  use the tool but do not add any resources yet, and then use the tool again afterwards adding ambulances and firetrucks 
+    if you consider that ratios can be improved by adding ambulances and firetrucks.
+  expected_output: >
+    Based on the Add Support Tool, make a single paragraph explanation of the ratios of ambulances, firetrucks per fire and injured individuals.
+    Explain the exact parameters used in the tool to modify the amounts of firetrucks and ambulances and why.
+  agent: support_agent
+

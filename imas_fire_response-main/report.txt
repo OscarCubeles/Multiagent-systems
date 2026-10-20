@@ -1,0 +1,104 @@
+
+ Initial Status 
+ 
+ There are 3 fires in the area. 
+Fire 1 is located at {'x': 2.4639846209913387, 'y': 42.17738048019025}. It is a/an gas fire, and it is of medium severity, with 2.There are 2 persons with minor injuries and 5 with serious injuries. 
+Fire 3 is located at {'x': 2.483619921963118, 'y': 42.19462849095851}. It is a/an electrical fire, and it is of high severity, with 2.There are 1 persons with minor injuries and 2 with serious injuries. 
+Fire 2 is located at {'x': 2.4935978583909413, 'y': 42.1738600307819}. It is a/an ordinary fire, and it is of low severity, with 2.There are 1 persons with minor injuries and 4 with serious injuries. 
+
+ There are 8 ambulances available.
+Ambulance 1 is a on-site ambulance and its available status is True. It has capacity for 5 people and is located in {'x': 2.4675162, 'y': 42.1874622} 
+Ambulance 2 is a on-site ambulance and its available status is True. It has capacity for 5 people and is located in {'x': 2.4675162, 'y': 42.1874622} 
+Ambulance 3 is a transfer ambulance and its available status is True. It has capacity for 6 people and is located in {'x': 2.4675162, 'y': 42.1874622} 
+Ambulance 4 is a on-site ambulance and its available status is True. It has capacity for 5 people and is located in {'x': 2.4675162, 'y': 42.1874622} 
+Ambulance 5 is a transfer ambulance and its available status is True. It has capacity for 7 people and is located in {'x': 2.4893466, 'y': 42.1800696} 
+Ambulance 6 is a on-site ambulance and its available status is True. It has capacity for 6 people and is located in {'x': 2.4893466, 'y': 42.1800696} 
+Ambulance 7 is a transfer ambulance and its available status is True. It has capacity for 4 people and is located in {'x': 2.4893466, 'y': 42.1800696} 
+Ambulance 8 is a transfer ambulance and its available status is True. It has capacity for 3 people and is located in {'x': 2.4675162, 'y': 42.1874622} 
+
+ There are 4 available fire trucks. 
+Truck 1 is a gas fire truck and is located in {'x': 2.5066022138790687, 'y': 42.156787066790685} 
+Truck 2 is a ordinary fire truck and is located in {'x': 2.4571098881766003, 'y': 42.193221921491165} 
+Truck 3 is a ordinary fire truck and is located in {'x': 2.4675162, 'y': 42.1874622} 
+Truck 4 is a ordinary fire truck and is located in {'x': 2.4675162, 'y': 42.1874622} 
+
+ There are 2 hospitals. 
+Hospital 1, Hospital d'Olot i comarcal de la Garrotxa, is located in {'x': 2.4675162, 'y': 42.1874622} and has capacity for 26 people. 
+Hospital 2, Clínica Bofill, is located in {'x': 2.4893466, 'y': 42.1800696} and has capacity for 62 people. 
+
+ 
+ Medical Report 
+
+ In fire number 1, 6 ambulances attend the site. 
+Ambulance number 1 travels a distance of 4673.68m to reach the fire in 443.94 seconds. 
+It takes the following route: ['Avinguda dels Països Catalans', 'Carretera de Sant Joan de les Abadesses', 'Avinguda dels Reis Catòlics', "Carrer de l'Escultor Josep Clarà", 'Passeig de Barcelona', 'Carretera Santa Coloma', 'Camí de la Teuleria', 'Plaça de Vista Alegre', 'Carrer de Vista Alegre', 'Carrer de Ribes de Freser', 'Carrer de Cadis', 'Camí dels Tossols']. 
+It is an on-site ambulance, heals 2 injured on the location of the fire. 
+Ambulance number 4 travels a distance of 4673.68m to reach the fire in 443.94 seconds. 
+It takes the following route: ['Avinguda dels Països Catalans', 'Carretera de Sant Joan de les Abadesses', 'Avinguda dels Reis Catòlics', "Carrer de l'Escultor Josep Clarà", 'Passeig de Barcelona', 'Carretera Santa Coloma', 'Camí de la Teuleria', 'Plaça de Vista Alegre', 'Carrer de Vista Alegre', 'Carrer de Ribes de Freser', 'Carrer de Cadis', 'Camí dels Tossols']. 
+It is an on-site ambulance, heals 0 injured on the location of the fire. 
+Ambulance number 5 travels a distance of 3031.94m to reach the fire in 294.1 seconds. 
+It takes the following route: ['Carrer de Marià Vayreda', 'Carrer de Camil Mulleras', 'Carrer del Pare Roca', 'Passeig de Barcelona', 'Carretera Santa Coloma', 'Camí de la Teuleria', 'Plaça de Vista Alegre', 'Carrer de Vista Alegre', 'Carrer de Ribes de Freser', 'Carrer de Cadis', 'Camí dels Tossols']. 
+It is a transfer ambulance, and makes 1 trips. 
+On trip number 1 it transports 5 injured to hospital Clínica Bofill. 
+The trip from the fire to the hospital takes 366.05 seconds with a traveled distance of 3603.1meters. 
+The route is ['Camí dels Tossols', 'Carrer de Cadis', 'Carrer de Ribes de Freser', 'Carrer de la Coma', 'Plaça de Vista Alegre', 'Camí de la Teuleria', 'Carretera Santa Coloma', 'Passeig de Barcelona', 'Avinguda de València', "Plaça d'Espanya", 'Avinguda de Castella i Lleó', "Avinguda d'Extremadura", 'Ronda del Sometent', 'Carrer de Joan Maragall', 'Carretera de Santa Pau', 'Carrer de Marià Vayreda']. 
+The hospital Clínica Bofill now has a capacity of 57 people. 
+Ambulance number 6 travels a distance of 3031.94m to reach the fire in 294.1 seconds. 
+It takes the following route: ['Carrer de Marià Vayreda', 'Carrer de Camil Mulleras', 'Carrer del Pare Roca', 'Passeig de Barcelona', 'Carretera Santa Coloma', 'Camí de la Teuleria', 'Plaça de Vista Alegre', 'Carrer de Vista Alegre', 'Carrer de Ribes de Freser', 'Carrer de Cadis', 'Camí dels Tossols']. 
+It is an on-site ambulance, heals 0 injured on the location of the fire. 
+Ambulance number 7 travels a distance of 3031.94m to reach the fire in 294.1 seconds. 
+It takes the following route: ['Carrer de Marià Vayreda', 'Carrer de Camil Mulleras', 'Carrer del Pare Roca', 'Passeig de Barcelona', 'Carretera Santa Coloma', 'Camí de la Teuleria', 'Plaça de Vista Alegre', 'Carrer de Vista Alegre', 'Carrer de Ribes de Freser', 'Carrer de Cadis', 'Camí dels Tossols']. 
+It is a transfer ambulance, and makes 0 trips. 
+Ambulance number 8 travels a distance of 4673.68m to reach the fire in 443.94 seconds. 
+It takes the following route: ['Avinguda dels Països Catalans', 'Carretera de Sant Joan de les Abadesses', 'Avinguda dels Reis Catòlics', "Carrer de l'Escultor Josep Clarà", 'Passeig de Barcelona', 'Carretera Santa Coloma', 'Camí de la Teuleria', 'Plaça de Vista Alegre', 'Carrer de Vista Alegre', 'Carrer de Ribes de Freser', 'Carrer de Cadis', 'Camí dels Tossols']. 
+It is a transfer ambulance, and makes 0 trips. 
+
+ In fire number 2, 1 ambulances attend the site. 
+Ambulance number 3 travels a distance of 3705.26m to reach the fire in 332.52 seconds. 
+It takes the following route: ['Avinguda dels Països Catalans', 'Carretera de Sant Joan de les Abadesses', 'Avinguda dels Reis Catòlics', "Carrer de l'Escultor Josep Clarà", 'Carrer del Bisbe Vilanova', 'Ronda del Fluvià', "Avinguda d'Extremadura", 'Ronda del Sometent', 'Avinguda de Sant Jordi', 'Carretera de Santa Pau', 'Carretera Vella de Batet', 'Carrer Rosa dels Vents']. 
+It is a transfer ambulance, and makes 1 trips. 
+On trip number 1 it transports 4 injured to hospital Clínica Bofill. 
+The trip from the fire to the hospital takes 122.18 seconds with a traveled distance of 1396.26meters. 
+The route is ['Carrer Rosa dels Vents', 'Carretera Vella de Batet', 'Carretera de Santa Pau', 'Carrer del Volcà Pedraguda', 'Carrer de la Creu Roja', 'Carrer del Pintor Llimona', 'Avinguda dels Pirineus', 'ronda de les Fonts', 'Carrer de Marià Vayreda']. 
+The hospital Clínica Bofill now has a capacity of 53 people. 
+
+ In fire number 3, 1 ambulances attend the site. 
+Ambulance number 2 travels a distance of 1554.28m to reach the fire in 160.97 seconds. 
+It takes the following route: ['Avinguda dels Països Catalans', "Avinguda d'Europa", 'Plaça de la Unió Europea', 'Eix Pirinenc']. 
+It is an on-site ambulance, heals 1 injured on the location of the fire. 
+
+ 
+ Fire Report 
+
+ To put out fire number 3 (electrical, high severity), 2 trucks attend the site.
+Fire truck number 2 reaches the site in 425.53 seconds, with a distance of 3816.91 meters. 
+It follows the next route to reach the fire: ['Carrer dels Semalers', 'Carrer de la Faixa', 'Carrer de la Ferradura', 'Carretera de Riudaura', 'Avinguda de Joan de Deu i Ros', 'Carrer Segador', 'Ronda del Xiprer', 'Carrer dels Amolls', 'Carrer del Ventall', 'Carrer de la Tartana', 'Carrer de la Masia', 'Carrer del Pic del Bac', 'Carrer de la Maça', "Carrer de l'Arquet", 'Carrer del Xaboc', 'Carrer Pere Màrtir Rossell VI', 'Carrer de la Brida', "Camí de l'Hostal de la Corda", 'Carretera de Sant Joan de les Abadesses', "Avinguda d'Europa", 'Plaça de la Unió Europea', 'Eix Pirinenc'] 
+Fire truck number 3 reaches the site in 160.97 seconds, with a distance of 1554.28 meters. 
+It follows the next route to reach the fire: ['Avinguda dels Països Catalans', "Avinguda d'Europa", 'Plaça de la Unió Europea', 'Eix Pirinenc'] 
+To put out the fire, several steps are taken: 
+- Cut off the power supply 
+- Use a Class C fire extinguisher 
+- Monitor for potential re-ignition after cooling 
+- Monitor for re-ignition 
+- Monitor for re-ignition 
+- Coordinate efforts among firetrucks 
+
+ To put out fire number 1 (gas, medium severity), 1 trucks attend the site.
+Fire truck number 1 reaches the site in 484.05 seconds, with a distance of 5571.11 meters. 
+It follows the next route to reach the fire: ['Carretera de Santa Pau', 'Avinguda de Sant Jordi', 'Avinguda de Paraguay', "Avinguda de l'Uruguay", "Plaça de l'Illa de Pasqua", 'Carretera Santa Coloma', 'Camí de la Teuleria', 'Plaça de Vista Alegre', 'Carrer de Vista Alegre', 'Carrer de Ribes de Freser', 'Carrer de Cadis', 'Camí dels Tossols'] 
+To put out the fire, several steps are taken: 
+- Shut off the gas supply at the main valve 
+- Use a dry chemical extinguisher designed for Class B or C fires 
+- Ventilate the area to disperse any residual gas 
+- Monitor for leaks or flare-ups after extinguishing 
+- Ensure thorough inspection 
+- Coordinate efforts among firetrucks 
+
+ To put out fire number 2 (ordinary, low severity), 1 trucks attend the site.
+Fire truck number 4 reaches the site in 332.52 seconds, with a distance of 3705.26 meters. 
+It follows the next route to reach the fire: ['Avinguda dels Països Catalans', 'Carretera de Sant Joan de les Abadesses', 'Avinguda dels Reis Catòlics', "Carrer de l'Escultor Josep Clarà", 'Carrer del Bisbe Vilanova', 'Ronda del Fluvià', "Avinguda d'Extremadura", 'Ronda del Sometent', 'Avinguda de Sant Jordi', 'Carretera de Santa Pau', 'Carretera Vella de Batet', 'Carrer Rosa dels Vents'] 
+To put out the fire, several steps are taken: 
+- Douse the fire with water to extinguish the flames 
+- Use foam or wet chemical agents if needed for deeper penetration 
+- Inspect for remaining embers and ensure no hotspots are present 
+- Coordinate efforts among firetrucks 

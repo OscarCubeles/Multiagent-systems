@@ -1,0 +1,64 @@
+
+Fire ID: 1 (Location: 2.4639846209913387, 42.17738048019025)
+  Injured at fire site:
+    Serious: 5
+    Minor: 2
+  Ambulance ID: 5, Type: transfer
+    Trips: [{'hospital_id': 2, 'hospital_name': 'Clínica Bofill', 'serious_transported': 5}]
+    On-Site Healing: 0
+  Ambulance ID: 7, Type: transfer
+    Trips: []
+    On-Site Healing: 0
+  Ambulance ID: 8, Type: transfer
+    Trips: []
+    On-Site Healing: 0
+  Ambulance ID: 1, Type: on-site
+    Trips: []
+    On-Site Healing: 2
+  Ambulance ID: 4, Type: on-site
+    Trips: []
+    On-Site Healing: 0
+  Ambulance ID: 6, Type: on-site
+    Trips: []
+    On-Site Healing: 0
+  Serious Injuries Remaining: 0
+  Minor Injuries Remaining: 0
+  Hospital Capacities:
+    Hospital ID: 1, Initial Capacity: 26, Final Capacity: 26
+    Hospital ID: 2, Initial Capacity: 62, Final Capacity: 57
+  Approximate Healing Time: 30.10 minutes
+
+
+Fire ID: 2 (Location: 2.4935978583909413, 42.1738600307819)
+  Injured at fire site:
+    Serious: 4
+    Minor: 1
+  Ambulance ID: 3, Type: transfer
+    Trips: [{'hospital_id': 2, 'hospital_name': 'Clínica Bofill', 'serious_transported': 4}]
+    On-Site Healing: 0
+  Serious Injuries Remaining: 0
+  Minor Injuries Remaining: 1
+  Hospital Capacities:
+    Hospital ID: 1, Initial Capacity: 26, Final Capacity: 26
+    Hospital ID: 2, Initial Capacity: 57, Final Capacity: 53
+  Approximate Healing Time: 2.04 minutes
+
+
+Fire ID: 3 (Location: 2.483619921963118, 42.19462849095851)
+  Injured at fire site:
+    Serious: 2
+    Minor: 1
+  Ambulance ID: 2, Type: on-site
+    Trips: []
+    On-Site Healing: 1
+  Serious Injuries Remaining: 2
+  Minor Injuries Remaining: 0
+  Hospital Capacities:
+    Hospital ID: 1, Initial Capacity: 26, Final Capacity: 26
+    Hospital ID: 2, Initial Capacity: 53, Final Capacity: 53
+  Approximate Healing Time: 12.00 minutes
+
+Total Distance: 4999.36 m
+Total Trips: 2
+Total Time: 8.14 minutes
+Total On-Site Healing: 3
